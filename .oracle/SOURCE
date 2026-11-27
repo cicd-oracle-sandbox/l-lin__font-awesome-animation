@@ -1,0 +1,4 @@
+upstream: https://github.com/l-lin/font-awesome-animation
+commit: 19eec30df6576d869dbd9ca3615b6e304461e814
+license: MIT
+Unmodified snapshot except that .github/workflows was emptied.
